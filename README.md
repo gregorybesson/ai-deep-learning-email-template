@@ -11,6 +11,7 @@ Sources:
 - http://reallygoodemails.com/ (around 1000 mails)
 - https://app.getresponse.com (500 templates which I could modify slightly)
 - https://codepen.io/search/pens/?depth=everything&limit=all&order=popularity&page=5&q=email+template&show_forks=false (around 1000 mails)
+- https://freshmail.com/newsletter-templates/ (around 130)
 - mailchimp ...
 
 ## Preparation
