@@ -19,7 +19,9 @@ I want my AI to code the mail based on an image. And I want to simplify as much 
 I will remove:
 - styles
 - colors
-- images
+- replace img src with void.png
+- remove img alt content
+
 from the templates so that I only keep the html structure of the mails.
 
 As I don't need colors, I'll turn the images into black and white.
